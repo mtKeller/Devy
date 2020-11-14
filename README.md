@@ -1,2 +1,2 @@
-# Devy
-Bevy Deno plug-in and Deno Bevy API
+# devy
+Bevy Deno plug-in API && Deno Bevy API
